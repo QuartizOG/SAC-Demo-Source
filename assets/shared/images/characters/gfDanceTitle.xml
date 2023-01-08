@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="PentaTitle.png">
+	<!-- Created with Adobe Animate version 22.0.1.105 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="penta dance0000" x="0" y="0" width="704" height="543" frameX="0" frameY="-12" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0001" x="0" y="0" width="704" height="543" frameX="0" frameY="-12" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0002" x="704" y="0" width="700" height="545" frameX="-2" frameY="-10" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0003" x="1404" y="0" width="700" height="545" frameX="-2" frameY="-10" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0004" x="2104" y="0" width="700" height="552" frameX="-2" frameY="-3" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0005" x="2804" y="0" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0006" x="2804" y="0" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0007" x="0" y="554" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0008" x="0" y="554" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0009" x="0" y="554" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0010" x="0" y="554" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0011" x="0" y="554" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0012" x="0" y="554" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0013" x="0" y="554" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0014" x="0" y="554" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0015" x="700" y="554" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0016" x="700" y="554" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0017" x="1400" y="554" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0018" x="1400" y="554" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0019" x="2100" y="554" width="700" height="555" frameX="-2" frameY="0" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0020" x="2800" y="554" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0021" x="2800" y="554" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0022" x="0" y="554" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0023" x="0" y="554" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0024" x="0" y="554" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0025" x="0" y="554" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0026" x="0" y="1109" width="704" height="554" frameX="0" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0027" x="0" y="1109" width="704" height="554" frameX="0" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0028" x="704" y="1109" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+	<SubTexture name="penta dance0029" x="0" y="554" width="700" height="554" frameX="-2" frameY="-1" frameWidth="704" frameHeight="555"/>
+</TextureAtlas>

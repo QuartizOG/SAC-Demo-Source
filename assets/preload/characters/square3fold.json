@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Idle_Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				122,
+				4
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Sing_Left_Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				-113
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Sing_Down_Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-363,
+				357
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Sing_Up_Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-136,
+				-1
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Sing_Right_Flip",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-104,
+				48
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-112,
+				-32
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-385,
+				355
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				59
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right miss",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				-134,
+				5
+			],
+			"anim": "deathLoop",
+			"fps": 24,
+			"name": "death loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1533,
+				1056
+			],
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "dem square boom",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-134,
+				118
+			],
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "cum",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/square3FOLD",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "square",
+	"flip_x": true,
+	"healthbar_colors": [
+		252,
+		212,
+		51
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 3
+}

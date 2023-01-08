@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 2.5,
+		"stage": "squares",
+		"player1": "nona-star",
+		"player2": "square",
+		"player3": null,
+		"events": [
+			[
+				44307.6923076923,
+				[
+					[
+						"Set Cam Zoom",
+						"1.8",
+						""
+					]
+				]
+			],
+			[
+				59076.9230769231,
+				[
+					[
+						"Set Cam Zoom",
+						"0.61",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "penta-star",
+		"bpm": 130,
+		"arrowSkin": "NOTE_assets",
+		"needsVoices": true,
+		"song": "Perimeter"
+	}
+}

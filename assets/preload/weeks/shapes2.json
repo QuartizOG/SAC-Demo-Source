@@ -1,0 +1,50 @@
+{
+	"storyName": "Shapes & Colors",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"5-Sided Support",
+			"penta",
+			[
+				255,
+				195,
+				195
+			]
+		],
+		[
+			"3-Fold",
+			"square",
+			[
+				255,
+				193,
+				0
+			]
+		],
+		[
+			"Superstar",
+			"star",
+			[
+				255,
+				153,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Shapes"
+}

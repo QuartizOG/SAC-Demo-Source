@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "triangle idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				110,
+				40
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "triangle left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-190
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "triangle down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				102
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "triangle up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-170,
+				40
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "triangle right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/triangle",
+	"position": [
+		100,
+		450
+	],
+	"healthicon": "trangle",
+	"flip_x": false,
+	"healthbar_colors": [
+		157,
+		255,
+		0
+	],
+	"camera_position": [
+		0,
+		-40
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

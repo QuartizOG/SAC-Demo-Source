@@ -1,0 +1,53 @@
+{
+	"song": {
+		"speed": 2.9,
+		"stage": "diamond",
+		"player1": "nona",
+		"player2": "diamond-normal",
+		"player3": null,
+		"healthdrain": 1,
+		"events": [
+			[
+				68210.5263157894,
+				[
+					[
+						"Image Flash",
+						"shine",
+						"0.5"
+					],
+					[
+						"Change Character",
+						"2",
+						"penta-shining"
+					],
+					[
+						"Change Character",
+						"1",
+						"diamond"
+					],
+					[
+						"Change Character",
+						"0",
+						"nona-shining"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"characterTrails": false,
+		"validScore": false,
+		"bfTrails": false,
+		"gfVersion": "penta",
+		"bpm": 190,
+		"arrowSkin": "",
+		"needsVoices": true,
+		"healthdrainKill": false,
+		"swapStrumLines": null,
+		"cameraMoveOnNotes": false,
+		"song": "Shining",
+		"songInstVolume": 1,
+		"disableAntiMash": null,
+		"disableDebugButtons": null
+	}
+}

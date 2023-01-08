@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="nona-star.png"><SubTexture name="nona idle0000" x="3423" y="3381" width="559" height="323" frameX="-104" frameY="-328" frameWidth="800" frameHeight="800" />
+<SubTexture name="nona idle0001" x="2979" y="2431" width="552" height="395" frameX="-110" frameY="-247" frameWidth="800" frameHeight="800" />
+<SubTexture name="nona idle0002" x="3597" y="2791" width="545" height="435" frameX="-117" frameY="-207" frameWidth="800" frameHeight="800" />
+<SubTexture name="nona idle0003" x="0" y="1916" width="554" height="515" frameX="-115" frameY="-128" frameWidth="800" frameHeight="800" />
+<SubTexture name="nona idle0004" x="0" y="1916" width="554" height="515" frameX="-115" frameY="-128" frameWidth="800" frameHeight="800" />
+<SubTexture name="nona idle0005" x="0" y="1916" width="554" height="515" frameX="-115" frameY="-128" frameWidth="800" frameHeight="800" />
+<SubTexture name="nona idle0006" x="0" y="1916" width="554" height="515" frameX="-115" frameY="-128" frameWidth="800" frameHeight="800" />
+<SubTexture name="nona idle0007" x="0" y="1916" width="554" height="515" frameX="-115" frameY="-128" frameWidth="800" frameHeight="800" />
+<SubTexture name="nona idle0008" x="0" y="1916" width="554" height="515" frameX="-115" frameY="-128" frameWidth="800" frameHeight="800" />
+<SubTexture name="nona idle0009" x="0" y="1916" width="554" height="515" frameX="-115" frameY="-128" frameWidth="800" frameHeight="800" />
+<SubTexture name="nona idle0010" x="0" y="1916" width="554" height="515" frameX="-115" frameY="-128" frameWidth="800" frameHeight="800" />
+<SubTexture name="nona idle0011" x="0" y="1916" width="554" height="515" frameX="-115" frameY="-128" frameWidth="800" frameHeight="800" />
+<SubTexture name="nona down0000" x="3597" y="2353" width="588" height="438" frameX="-487" frameY="-600" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona down0001" x="2099" y="3381" width="662" height="371" frameX="-464" frameY="-669" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona left0000" x="1540" y="0" width="467" height="542" frameX="-607" frameY="-504" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona left0001" x="0" y="834" width="535" height="549" frameX="-657" frameY="-498" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona right0000" x="2007" y="0" width="497" height="525" frameX="-501" frameY="-513" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona right0001" x="553" y="1383" width="527" height="529" frameX="-459" frameY="-506" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona up0000" x="1039" y="0" width="501" height="739" frameX="-521" frameY="-300" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona up0001" x="0" y="0" width="486" height="834" frameX="-528" frameY="-208" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona down miss0000" x="2099" y="3381" width="662" height="371" frameX="-464" frameY="-669" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona down miss0001" x="2761" y="3381" width="662" height="371" frameX="-464" frameY="-669" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona down miss0002" x="2761" y="3381" width="662" height="371" frameX="-464" frameY="-669" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona left miss0000" x="0" y="834" width="535" height="549" frameX="-657" frameY="-498" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona left miss0001" x="535" y="834" width="615" height="549" frameX="-636" frameY="-498" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona left miss0002" x="535" y="834" width="615" height="549" frameX="-636" frameY="-498" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona up miss0000" x="0" y="0" width="486" height="834" frameX="-528" frameY="-208" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona up miss0001" x="486" y="0" width="553" height="834" frameX="-516" frameY="-208" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona up miss0002" x="486" y="0" width="553" height="834" frameX="-516" frameY="-208" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona right miss0000" x="553" y="1383" width="527" height="529" frameX="-459" frameY="-506" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona right miss0001" x="1080" y="1383" width="527" height="529" frameX="-459" frameY="-506" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona right miss0002" x="1080" y="1383" width="527" height="529" frameX="-459" frameY="-506" frameWidth="1600" frameHeight="1600" />
+<SubTexture name="nona death0000" x="0" y="1383" width="553" height="533" frameX="-415" frameY="-428" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona death0001" x="554" y="1916" width="657" height="492" frameX="-360" frameY="-477" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona death0002" x="1093" y="2431" width="793" height="477" frameX="-288" frameY="-494" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona death0003" x="0" y="3381" width="1006" height="427" frameX="-191" frameY="-552" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona death0004" x="1006" y="3381" width="1093" height="400" frameX="-148" frameY="-610" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona death0005" x="1211" y="1916" width="1093" height="478" frameX="-148" frameY="-532" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona death0006" x="2504" y="0" width="1093" height="478" frameX="-148" frameY="-532" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona death0007" x="2504" y="478" width="1093" height="478" frameX="-148" frameY="-532" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona death0008" x="2504" y="956" width="1093" height="478" frameX="-148" frameY="-532" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona death0009" x="2504" y="1434" width="1093" height="478" frameX="-148" frameY="-532" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona death0010" x="2504" y="1912" width="1093" height="478" frameX="-148" frameY="-532" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona death0011" x="0" y="2431" width="1093" height="478" frameX="-148" frameY="-532" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona deathconfirm0000" x="0" y="2909" width="1093" height="472" frameX="-148" frameY="-538" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona deathconfirm0001" x="1093" y="2909" width="1093" height="472" frameX="-148" frameY="-538" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona deathconfirm0002" x="2186" y="2909" width="1093" height="472" frameX="-148" frameY="-538" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona deathconfirm0003" x="3597" y="0" width="1093" height="472" frameX="-148" frameY="-538" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona deathconfirm0004" x="3597" y="472" width="1093" height="472" frameX="-148" frameY="-538" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona deathconfirm0005" x="3597" y="1884" width="1093" height="469" frameX="-148" frameY="-541" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona deathconfirm0006" x="3597" y="944" width="1093" height="471" frameX="-148" frameY="-539" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona deathconfirm0007" x="3597" y="944" width="1093" height="471" frameX="-148" frameY="-539" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona deathconfirm0008" x="3597" y="944" width="1093" height="471" frameX="-148" frameY="-539" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona deathconfirm0009" x="3597" y="944" width="1093" height="471" frameX="-148" frameY="-539" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona deathloop0000" x="0" y="2431" width="1093" height="478" frameX="-148" frameY="-532" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona deathloop0001" x="1886" y="2431" width="1093" height="475" frameX="-148" frameY="-535" frameWidth="1400" frameHeight="1400" />
+<SubTexture name="nona deathloop0002" x="3597" y="1415" width="1093" height="469" frameX="-148" frameY="-541" frameWidth="1400" frameHeight="1400" />
+</TextureAtlas>

@@ -1,0 +1,155 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-455,
+				-755
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "nona idle"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-395,
+				-764
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "nona down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-442,
+				-664
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "nona up miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-268,
+				-722
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "nona death loop"
+		},
+		{
+			"offsets": [
+				-268,
+				-722
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "nona death confirm"
+		},
+		{
+			"offsets": [
+				-268,
+				-722
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "nona fucking dies"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-465,
+				-807
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "nona down sing",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-479,
+				-640
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "nona up sing",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-409,
+				-719
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "nona left sing"
+		},
+		{
+			"offsets": [
+				-367,
+				-717
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "nona left miss"
+		},
+		{
+			"offsets": [
+				-492,
+				-713
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "nona right miss"
+		},
+		{
+			"offsets": [
+				-493,
+				-718
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "nona right sing"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nona",
+	"position": [
+		-550,
+		-280
+	],
+	"healthicon": "nona",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		225,
+		255
+	],
+	"camera_position": [
+		-300,
+		660
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

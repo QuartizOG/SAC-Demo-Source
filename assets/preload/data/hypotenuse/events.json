@@ -1,0 +1,39 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "triangles",
+		"player1": "nona-star",
+		"player2": "triangle",
+		"player3": null,
+		"events": [
+			[
+				42430.9392265193,
+				[
+					[
+						"Set Cam Zoom",
+						"1.3",
+						""
+					]
+				]
+			],
+			[
+				53038.6740331492,
+				[
+					[
+						"Set Cam Zoom",
+						"0.61",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "penta-star",
+		"bpm": 181,
+		"arrowSkin": "NOTE_assets",
+		"needsVoices": true,
+		"song": "Hypotenuse"
+	}
+}

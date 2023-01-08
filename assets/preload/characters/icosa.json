@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "icosa idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-80
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "icosa left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-63,
+				-75
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "icosa down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-65,
+				-51
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "icosa up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-70,
+				-80
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "icosa right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/icosa",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "icosa",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-70,
+		110
+	],
+	"sing_duration": 6.1,
+	"scale": 1
+}

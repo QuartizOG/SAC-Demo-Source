@@ -1,0 +1,59 @@
+{
+	"storyName": "Shapes & Colors",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "shapes",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Perimeter",
+			"square",
+			[
+				255,
+				220,
+				0
+			]
+		],
+		[
+			"Hypotenuse",
+			"trangle",
+			[
+				0,
+				255,
+				0
+			]
+		],
+		[
+			"Diameter",
+			"circle",
+			[
+				0,
+				0,
+				253
+			]
+		],
+		[
+			"Shining",
+			"diamond",
+			[
+				255,
+				0,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Shapes",
+	"hiddenUntilUnlocked": false
+}

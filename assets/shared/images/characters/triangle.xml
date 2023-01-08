@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="triangle.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="triangle down0000" x="0" y="0" width="323" height="260"/>
+	<SubTexture name="triangle down0001" x="0" y="0" width="323" height="260"/>
+	<SubTexture name="triangle down0002" x="323" y="0" width="318" height="240" frameX="0" frameY="0" frameWidth="323" frameHeight="260"/>
+	<SubTexture name="triangle down0003" x="323" y="0" width="318" height="240" frameX="0" frameY="0" frameWidth="323" frameHeight="260"/>
+	<SubTexture name="triangle down0004" x="641" y="0" width="307" height="221" frameX="0" frameY="0" frameWidth="323" frameHeight="260"/>
+	<SubTexture name="triangle down0005" x="641" y="0" width="307" height="221" frameX="0" frameY="0" frameWidth="323" frameHeight="260"/>
+	<SubTexture name="triangle down0006" x="948" y="0" width="302" height="216" frameX="0" frameY="0" frameWidth="323" frameHeight="260"/>
+	<SubTexture name="triangle down0007" x="948" y="0" width="302" height="216" frameX="0" frameY="0" frameWidth="323" frameHeight="260"/>
+	<SubTexture name="triangle down0008" x="948" y="0" width="302" height="216" frameX="0" frameY="0" frameWidth="323" frameHeight="260"/>
+	<SubTexture name="triangle down0009" x="948" y="0" width="302" height="216" frameX="0" frameY="0" frameWidth="323" frameHeight="260"/>
+	<SubTexture name="triangle down0010" x="948" y="0" width="302" height="216" frameX="0" frameY="0" frameWidth="323" frameHeight="260"/>
+	<SubTexture name="triangle down0011" x="948" y="0" width="302" height="216" frameX="0" frameY="0" frameWidth="323" frameHeight="260"/>
+	<SubTexture name="triangle down0012" x="948" y="0" width="302" height="216" frameX="0" frameY="0" frameWidth="323" frameHeight="260"/>
+	<SubTexture name="triangle down0013" x="948" y="0" width="302" height="216" frameX="0" frameY="0" frameWidth="323" frameHeight="260"/>
+	<SubTexture name="triangle idle0000" x="1250" y="0" width="475" height="193" frameX="0" frameY="-18" frameWidth="475" frameHeight="211"/>
+	<SubTexture name="triangle idle0001" x="1250" y="0" width="475" height="193" frameX="0" frameY="-18" frameWidth="475" frameHeight="211"/>
+	<SubTexture name="triangle idle0002" x="0" y="260" width="436" height="196" frameX="-16" frameY="-15" frameWidth="475" frameHeight="211"/>
+	<SubTexture name="triangle idle0003" x="0" y="260" width="436" height="196" frameX="-16" frameY="-15" frameWidth="475" frameHeight="211"/>
+	<SubTexture name="triangle idle0004" x="436" y="260" width="378" height="196" frameX="-38" frameY="-15" frameWidth="475" frameHeight="211"/>
+	<SubTexture name="triangle idle0005" x="436" y="260" width="378" height="196" frameX="-38" frameY="-15" frameWidth="475" frameHeight="211"/>
+	<SubTexture name="triangle idle0006" x="814" y="260" width="356" height="211" frameX="-51" frameY="0" frameWidth="475" frameHeight="211"/>
+	<SubTexture name="triangle idle0007" x="814" y="260" width="356" height="211" frameX="-51" frameY="0" frameWidth="475" frameHeight="211"/>
+	<SubTexture name="triangle idle0008" x="814" y="260" width="356" height="211" frameX="-51" frameY="0" frameWidth="475" frameHeight="211"/>
+	<SubTexture name="triangle idle0009" x="814" y="260" width="356" height="211" frameX="-51" frameY="0" frameWidth="475" frameHeight="211"/>
+	<SubTexture name="triangle idle0010" x="814" y="260" width="356" height="211" frameX="-51" frameY="0" frameWidth="475" frameHeight="211"/>
+	<SubTexture name="triangle idle0011" x="814" y="260" width="356" height="211" frameX="-51" frameY="0" frameWidth="475" frameHeight="211"/>
+	<SubTexture name="triangle idle0012" x="814" y="260" width="356" height="211" frameX="-51" frameY="0" frameWidth="475" frameHeight="211"/>
+	<SubTexture name="triangle idle0013" x="814" y="260" width="356" height="211" frameX="-51" frameY="0" frameWidth="475" frameHeight="211"/>
+	<SubTexture name="triangle left0000" x="1170" y="260" width="292" height="266" frameX="0" frameY="-13" frameWidth="312" frameHeight="279"/>
+	<SubTexture name="triangle left0001" x="1170" y="260" width="292" height="266" frameX="0" frameY="-13" frameWidth="312" frameHeight="279"/>
+	<SubTexture name="triangle left0002" x="1462" y="260" width="291" height="269" frameX="-8" frameY="-6" frameWidth="312" frameHeight="279"/>
+	<SubTexture name="triangle left0003" x="1462" y="260" width="291" height="269" frameX="-8" frameY="-6" frameWidth="312" frameHeight="279"/>
+	<SubTexture name="triangle left0004" x="1753" y="260" width="290" height="266" frameX="-15" frameY="-3" frameWidth="312" frameHeight="279"/>
+	<SubTexture name="triangle left0005" x="1753" y="260" width="290" height="266" frameX="-15" frameY="-3" frameWidth="312" frameHeight="279"/>
+	<SubTexture name="triangle left0006" x="0" y="529" width="293" height="261" frameX="-19" frameY="0" frameWidth="312" frameHeight="279"/>
+	<SubTexture name="triangle left0007" x="0" y="529" width="293" height="261" frameX="-19" frameY="0" frameWidth="312" frameHeight="279"/>
+	<SubTexture name="triangle left0008" x="0" y="529" width="293" height="261" frameX="-19" frameY="0" frameWidth="312" frameHeight="279"/>
+	<SubTexture name="triangle left0009" x="0" y="529" width="293" height="261" frameX="-19" frameY="0" frameWidth="312" frameHeight="279"/>
+	<SubTexture name="triangle left0010" x="0" y="529" width="293" height="261" frameX="-19" frameY="0" frameWidth="312" frameHeight="279"/>
+	<SubTexture name="triangle left0011" x="0" y="529" width="293" height="261" frameX="-19" frameY="0" frameWidth="312" frameHeight="279"/>
+	<SubTexture name="triangle left0012" x="0" y="529" width="293" height="261" frameX="-19" frameY="0" frameWidth="312" frameHeight="279"/>
+	<SubTexture name="triangle left0013" x="0" y="529" width="293" height="261" frameX="-19" frameY="0" frameWidth="312" frameHeight="279"/>
+	<SubTexture name="triangle right0000" x="293" y="529" width="230" height="272" frameX="0" frameY="-13" frameWidth="230" frameHeight="285"/>
+	<SubTexture name="triangle right0001" x="293" y="529" width="230" height="272" frameX="0" frameY="-13" frameWidth="230" frameHeight="285"/>
+	<SubTexture name="triangle right0002" x="523" y="529" width="222" height="274" frameX="0" frameY="-6" frameWidth="230" frameHeight="285"/>
+	<SubTexture name="triangle right0003" x="523" y="529" width="222" height="274" frameX="0" frameY="-6" frameWidth="230" frameHeight="285"/>
+	<SubTexture name="triangle right0004" x="745" y="529" width="215" height="275" frameX="-1" frameY="-3" frameWidth="230" frameHeight="285"/>
+	<SubTexture name="triangle right0005" x="745" y="529" width="215" height="275" frameX="-1" frameY="-3" frameWidth="230" frameHeight="285"/>
+	<SubTexture name="triangle right0006" x="960" y="529" width="211" height="274" frameX="-2" frameY="0" frameWidth="230" frameHeight="285"/>
+	<SubTexture name="triangle right0007" x="960" y="529" width="211" height="274" frameX="-2" frameY="0" frameWidth="230" frameHeight="285"/>
+	<SubTexture name="triangle right0008" x="960" y="529" width="211" height="274" frameX="-2" frameY="0" frameWidth="230" frameHeight="285"/>
+	<SubTexture name="triangle right0009" x="960" y="529" width="211" height="274" frameX="-2" frameY="0" frameWidth="230" frameHeight="285"/>
+	<SubTexture name="triangle right0010" x="960" y="529" width="211" height="274" frameX="-2" frameY="0" frameWidth="230" frameHeight="285"/>
+	<SubTexture name="triangle right0011" x="960" y="529" width="211" height="274" frameX="-2" frameY="0" frameWidth="230" frameHeight="285"/>
+	<SubTexture name="triangle right0012" x="960" y="529" width="211" height="274" frameX="-2" frameY="0" frameWidth="230" frameHeight="285"/>
+	<SubTexture name="triangle right0013" x="960" y="529" width="211" height="274" frameX="-2" frameY="0" frameWidth="230" frameHeight="285"/>
+	<SubTexture name="triangle up0000" x="1171" y="529" width="312" height="319" frameX="-22" frameY="0" frameWidth="334" frameHeight="319"/>
+	<SubTexture name="triangle up0001" x="1171" y="529" width="312" height="319" frameX="-22" frameY="0" frameWidth="334" frameHeight="319"/>
+	<SubTexture name="triangle up0002" x="1483" y="529" width="312" height="288" frameX="-14" frameY="-30" frameWidth="334" frameHeight="319"/>
+	<SubTexture name="triangle up0003" x="1483" y="529" width="312" height="288" frameX="-14" frameY="-30" frameWidth="334" frameHeight="319"/>
+	<SubTexture name="triangle up0004" x="0" y="848" width="310" height="272" frameX="-6" frameY="-46" frameWidth="334" frameHeight="319"/>
+	<SubTexture name="triangle up0005" x="0" y="848" width="310" height="272" frameX="-6" frameY="-46" frameWidth="334" frameHeight="319"/>
+	<SubTexture name="triangle up0006" x="310" y="848" width="309" height="257" frameX="0" frameY="-61" frameWidth="334" frameHeight="319"/>
+	<SubTexture name="triangle up0007" x="310" y="848" width="309" height="257" frameX="0" frameY="-61" frameWidth="334" frameHeight="319"/>
+	<SubTexture name="triangle up0008" x="310" y="848" width="309" height="257" frameX="0" frameY="-61" frameWidth="334" frameHeight="319"/>
+	<SubTexture name="triangle up0009" x="310" y="848" width="309" height="257" frameX="0" frameY="-61" frameWidth="334" frameHeight="319"/>
+	<SubTexture name="triangle up0010" x="310" y="848" width="309" height="257" frameX="0" frameY="-61" frameWidth="334" frameHeight="319"/>
+	<SubTexture name="triangle up0011" x="310" y="848" width="309" height="257" frameX="0" frameY="-61" frameWidth="334" frameHeight="319"/>
+	<SubTexture name="triangle up0012" x="310" y="848" width="309" height="257" frameX="0" frameY="-61" frameWidth="334" frameHeight="319"/>
+	<SubTexture name="triangle up0013" x="310" y="848" width="309" height="257" frameX="0" frameY="-61" frameWidth="334" frameHeight="319"/>
+</TextureAtlas>

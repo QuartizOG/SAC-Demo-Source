@@ -1,0 +1,179 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-305,
+				-415
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "nona idle"
+		},
+		{
+			"offsets": [
+				-178,
+				-268
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "nona deathloop"
+		},
+		{
+			"offsets": [
+				-178,
+				-267
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "nona deathconfirm"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-93,
+				-219
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "nona right",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-129,
+				-214
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "nona left",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-115,
+				-217
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "nona down",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				-216
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "nona up",
+			"indices": [
+				0,
+				1
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-178,
+				-267
+			],
+			"anim": "firstDeath",
+			"fps": 15,
+			"name": "nona death",
+			"indices": [
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-112,
+				-217
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "nona down miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-126,
+				-215
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "nona left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-114,
+				-215
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "nona up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-89,
+				-220
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "nona right miss",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/nona-star",
+	"position": [
+		-550,
+		-280
+	],
+	"healthicon": "nona",
+	"flip_x": true,
+	"healthbar_colors": [
+		0,
+		225,
+		255
+	],
+	"camera_position": [
+		-520,
+		540
+	],
+	"sing_duration": 4,
+	"scale": 0.5
+}

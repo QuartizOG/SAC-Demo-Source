@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 3,
+		"stage": "starstage",
+		"player1": "nona-star",
+		"player2": "star",
+		"player3": null,
+		"events": [
+			[
+				38400,
+				[
+					[
+						"Set Cam Zoom",
+						"1.6",
+						""
+					]
+				]
+			],
+			[
+				51200,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			],
+			[
+				89600,
+				[
+					[
+						"Set Cam Zoom",
+						"1.6",
+						""
+					]
+				]
+			],
+			[
+				102400,
+				[
+					[
+						"Set Cam Zoom",
+						"0.8",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "penta-star",
+		"bpm": 150,
+		"arrowSkin": "NOTE_assets",
+		"needsVoices": true,
+		"song": "superstar"
+	}
+}
